@@ -1,0 +1,20 @@
+{
+  "name": "rr-react-router-montys-mineral-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DantheCodeRaider/RR-React-Router-Montys-Mineral-Spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DantheCodeRaider/RR-React-Router-Montys-Mineral-Spa/issues"
+  },
+  "homepage": "https://github.com/DantheCodeRaider/RR-React-Router-Montys-Mineral-Spa#readme"
+}
